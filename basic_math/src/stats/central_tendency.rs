@@ -13,10 +13,11 @@ pub fn median_unchecked(xs: &[f64]) -> f64 {
     let mid = v_len / 2;
 
     if v_len.is_even() {
-        return v[mid];
+        (v[mid - 1] + v[mid]) / 2.0
     } else {
-        return (v[mid - 1] + v[mid + 1]) / 2.0;
-    } 
+        v[mid]
+    }
+
 
 } 
 
