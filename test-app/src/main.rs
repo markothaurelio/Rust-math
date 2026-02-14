@@ -16,7 +16,7 @@ fn main() {
     let xs = vec![2.0, 4.0, 5.0, 7.0, 8.0, 10.0, 12.0, 15.0];
     let ys = vec![4.0, 8.0, 10.0, 14.0, 16.0, 20.0, 24.0, 30.0]; // ys = 2 * xs
 
-
+//test
 //    println!("mean = {}", stats::mean_unchecked(&v_e));
 //    println!("median = {}", stats::median_unchecked(&v));
 //    println!("mode = {}", stats::mode_unchecked(&v_m));
