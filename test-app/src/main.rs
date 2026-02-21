@@ -1,5 +1,4 @@
-use basic_math::stats;
-//use basic_math::linear;
+use core::stats;
 
 fn main() {
 //    let v = vec![1.0, 2.0, 3.0];

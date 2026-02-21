@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "basic_math",
+  "core",
   "test-app",
 ]
 resolver = "2"

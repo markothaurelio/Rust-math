@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-basic_math = { path = "../basic_math" }
+core = { path = "../core" }
