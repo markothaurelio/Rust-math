@@ -1,4 +1,3 @@
-
 use crate::stats::{mean_unchecked, median_unchecked};
 
 pub fn range_unchecked(xs: &[f64]) -> f64 {
